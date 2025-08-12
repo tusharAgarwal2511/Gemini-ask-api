@@ -21,10 +21,10 @@ https://gemini-ask-api.onrender.com
 
 ## 💻 Tech Stack
 
-- **Node.js** – JavaScript runtime  
-- **Express** – Web framework for Node.js  
-- **Google Gemini API** – AI language model for answering questions  
-- **Render** – Hosting platform (free tier used)
+- [**Node.js**](https://nodejs.org/) – JavaScript runtime 🟢  
+- [**Express**](https://expressjs.com/) – Web framework for Node.js ⚡  
+- [**Google Gemini API**](https://developers.generativeai.google/) – AI language model for answering questions 🤖  
+- [**Render**](https://render.com/) – Hosting platform (free tier used) ☁️
 
 ---
 
