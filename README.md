@@ -4,6 +4,15 @@ A simple Node.js API that uses Google’s Gemini models to provide answers to yo
 
 ---
 
+# ✨ Gemini Ask API
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com/)  
+[![Render](https://img.shields.io/badge/Render-303030?logo=render&logoColor=white)](https://render.com/)  
+[![License](https://img.shields.io/badge/license-ISC-blue)](https://opensource.org/licenses/ISC)  
+
+---
+
 ## 🚀 Features
 
 - Single POST endpoint to send a question and get an AI-generated answer.
