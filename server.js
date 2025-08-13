@@ -13,7 +13,9 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 app.post("/ask", async (req, res) => {
     try {
         const { question } = req.body;
-        const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" }); // ✅ updated model
+        const model = genAI.getGenerativeModel({
+            model: "gemini-2.5-flash-lite",
+        }); // ✅ updated model
         const result = await model.generateContent(question);
         res.json({ answer: result.response.text() });
     } catch (error) {
