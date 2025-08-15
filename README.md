@@ -12,18 +12,17 @@ A simple Node.js API that uses Google’s Gemini models to provide answers to yo
 
 ---
 
+## 🌐 Base URL
+
+https://gemini-ask-api.onrender.com
+
+---
+
 ## 🚀 Features
 
 - Single POST endpoint to send a question and get an AI-generated answer.
 - Easy to use and integrate.
 - Hosted on Render’s free tier.
-
----
-
-## 🌐 Base URL
-
-https://gemini-ask-api.onrender.com
-
 
 ---
 
